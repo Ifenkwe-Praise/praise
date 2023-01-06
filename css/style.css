@@ -347,6 +347,23 @@ margin-bottom: 20px;
   margin-bottom: 5px;
   color: var(--text-color);
 }
+.btn{
+  display: inline-block;
+  padding: 10px 30px;
+  color: white;
+  background-color: black;
+  border-radius: 5rem;
+  margin-top: 2rem;
+}
+.btn i{
+  margin-right: 10px;
+}
+.btn:hover{
+  transform: scale(1.2);
+  background: #38b6ff;
+  transition: .4s;
+  box-shadow: 0 5px 15px 2px #3f2c2c2e;
+}
 
  /* end */
  .bottom{
