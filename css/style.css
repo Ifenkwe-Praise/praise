@@ -347,7 +347,7 @@ margin-bottom: 20px;
   margin-bottom: 5px;
   color: var(--text-color);
 }
-.btn{
+.btn-two{
   display: inline-block;
   padding: 10px 30px;
   color: white;
@@ -355,10 +355,10 @@ margin-bottom: 20px;
   border-radius: 5rem;
   margin-top: 2rem;
 }
-.btn i{
+.btn-two i{
   margin-right: 10px;
 }
-.btn:hover{
+.btn-two:hover{
   transform: scale(1.2);
   background: #38b6ff;
   transition: .4s;
