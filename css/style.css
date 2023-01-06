@@ -152,7 +152,7 @@ section{
   justify-content: center;
   background: rgba(128,103,240,1);
   font-size: 17px;
-  background: #38b6ff;
+  background: var(--text-color);
   color: #ffffff;
   margin-right: 22px;
   margin-bottom: 30px;
