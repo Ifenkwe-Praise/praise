@@ -359,7 +359,7 @@ margin-bottom: 20px;
 }
 .btn-two:hover{
   transform: scale(1.2);
-  background: #38b6ff;
+  background: var(--text-color);
   transition: .4s;
   box-shadow: 0 5px 15px 2px #3f2c2c2e;
 }
