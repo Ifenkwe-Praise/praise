@@ -207,7 +207,7 @@ section{
   grid-template-columns: repeat(2, 2fr);
   grid-gap: 5rem;
   align-items: center;
-  padding-top: 80px;
+  padding-top: 90px;
 }
 .about-image img{
 max-width: 100%;
