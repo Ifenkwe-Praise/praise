@@ -369,6 +369,7 @@ margin-bottom: 20px;
  width: 100%;
  padding: 20px 0;
  text-align: center;
+ padding-top: 50px;
 }
 .bottom p{
   color: var(--text-color);
