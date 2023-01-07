@@ -380,7 +380,7 @@ margin-bottom: 20px;
   border-radius: 8px;
   font-size: 15px;
   color: #ffffff;
-  background: var(--text-color);
+  background: var(--main-color);
   letter-spacing: 2px;
   margin-top: 2rem;
 }
